@@ -1,5 +1,5 @@
 import './App.css';
-import contract from "./contracts/NftCyberDogsTest.json"
+
 
 import Navbar from './Navbar/Navbar';
 import MintButton from './FrontPage/MintButton';
