@@ -1,0 +1,21 @@
+
+@import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
+body {
+  font-family: 'VT323', monospace;
+  margin: 0cm;
+}
+html,body{
+  margin:0;
+  scroll-behavior: smooth;
+  }
+
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
